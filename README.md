@@ -20,3 +20,5 @@ Git stores global configuration settings in a hidden text file located in your h
 ```bash
 $ cat ~/.gitconfig
 ```
+
+**Main part of course is in file repo.md**
